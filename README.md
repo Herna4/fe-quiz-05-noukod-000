@@ -16,12 +16,12 @@
 (X) graceful degradation
 ( ) regressive enhancement
 
-?: What is another term for the 'mobile up' approach to creating responsive layouts, in which the site is first designed to fit mobile devices and is then scaled up for larger screens?
+?: What is another term for the approach to creating responsive layouts in which the site is first designed to fit mobile devices and is then scaled up for larger screens?
 
-(X) progressive enhancement
+( ) desktop-down
 ( ) mobile-second development
 ( ) graceful degradation
-( ) regressive enhancement
+(X) mobile-up
 
 ?: Each CSS3 media query may only be given one conditional expression to evaluate.
 
